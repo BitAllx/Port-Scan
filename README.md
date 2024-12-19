@@ -74,9 +74,3 @@ sudo apt install xclip
 
 **Jorge Arana Fedriani**  
 
----
-
-### 🛠 Contribution
-
-Contributions, issues, and feature requests are welcome! Feel free to fork this repository and submit a pull request. 😊
-
