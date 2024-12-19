@@ -36,7 +36,6 @@ For usage details:
 
 Make sure you have the following installed on your system:
 
-- **Bash**
 - **xclip** (for clipboard functionality)
 
 Install xclip on Debian/Ubuntu:
