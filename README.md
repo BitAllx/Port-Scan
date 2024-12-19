@@ -58,10 +58,12 @@ sudo apt install xclip
 ## 🛑 Error Handling
 
 - **Invalid Syntax**:
+  
   ```plaintext
   [!] La sintaxis de la IP o el rango de puertos es incorrecta
   ```
 - **Too Many Parameters**:
+  
   ```plaintext
   [!] Esta herramienta acepta como máximo dos parámetros
   ```
