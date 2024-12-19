@@ -72,7 +72,6 @@ sudo apt install xclip
 ## 👤 Author
 
 **Jorge Arana Fedriani**  
-📧 Contact: [YourEmail@example.com](mailto:YourEmail@example.com)
 
 ---
 
